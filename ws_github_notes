@@ -1,0 +1,33 @@
+ - Introducao
+ 
+ - Diferenca entre Git e Github
+ 
+ - Como crir um repositorio e fazer commits
+ 
+ - Conventional commits
+ 
+ - O que é uma branch
+ 
+ - Como recuperar atualizacoes do repositório
+ 
+ - Como fazer login no git e gihub cli(gh)
+ 
+ - Dinâmica em equipe
+ 
+ 
+ Comandos úteis:
+ 
+
+ Adiciona credenciais no git
+ git config --global user.email "email"
+ git config --global user.name "name"
+ 
+ Remove credenciais no git
+ git config --global --unset user.name
+ git config --global --unset user.email
+ 
+ gh auth login
+ 
+ gh auth logout
+ 
+ 
